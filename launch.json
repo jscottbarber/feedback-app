@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "type": "vscode-edge-devtools.debug",
+      "name": "Open Edge DevTools",
+      "request": "attach",
+      "url": "http://localhost:3000", // Provide your project's url to finish configuring
+      "presentation": {
+        "hidden": false
+      }
+    }
+  ]
+}
